@@ -9,6 +9,9 @@
 
 This repository contains both the code I built while following Brackeys' Godot tutorial series and a summary of the learning concepts I have covered so far. It highlights core Godot concepts, scripting, and basic 2D game mechanics.
 
+🎮 **Play the Game Online:**  
+👉 [Play this game now on the web!](https://mekdie.github.io/FirstGodotGame/)
+
 ---
 
 ## 📌 Table of Contents
