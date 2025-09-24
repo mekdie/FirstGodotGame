@@ -1,0 +1,14 @@
+{
+  "name": "first-godot-game",
+  "version": "1.0.0",
+  "description": "My First Godot Game",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "author": "Mekdie",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
