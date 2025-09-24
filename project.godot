@@ -15,6 +15,10 @@ run/main_scene="uid://cuv0m6d8j7xcl"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
 
+[autoload]
+
+Music="*res://scenes/music.tscn"
+
 [dotnet]
 
 project/assembly_name="First Game Project"
